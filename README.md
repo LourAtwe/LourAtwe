@@ -67,4 +67,4 @@
   <p><em>⚡ When your computer goes full manic mode… ⚡</em></p>
 </div>
 
-ر
+
