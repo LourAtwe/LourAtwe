@@ -2,7 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-## 📫 Connect with me:
+## 📫 Reach Out:
 
 [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />](https://www.linkedin.com/in/lour-atwe-102583245/)
 
@@ -18,7 +18,7 @@
 ###
 
 <p align="left">
-🎓 I'm a researcher with a Master's degree in Computer Science.<br><br>
+<marquee>🎓 I'm a researcher with a Master's degree in Computer Science.</marquee><br><br>
 
 - 💻 Deeply immersed in the world of software and modern technologies.<br>
 - 📊 Strong background in Python, machine learning, deep learning, and data mining.<br>
@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/badge/-Facepager-0078D7?style=flat" height="30" />
 </p>
 
+
 <p>
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=python&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" height="30" />
@@ -62,7 +63,18 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="30" />
 </p>
 
+###
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LourAtwe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+
+###
 ---
 
 <div align="center">
