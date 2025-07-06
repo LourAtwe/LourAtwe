@@ -81,9 +81,5 @@
   <img height="150" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Manic Computer" />
   <p><em>⚡ When your computer goes full manic mode… ⚡</em></p>
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LourAtwe/LourAtwe/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LourAtwe/LourAtwe/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LourAtwe/LourAtwe/output/pacman-contribution-graph.svg">
-</picture>
+
 
